@@ -1,0 +1,13 @@
+SIMULATED DATA - demonstration only, not real results
+
+Mice per group: 10; groups: Infected control, Drug - low dose, Drug - high dose
+
+Parasitaemia on day 7: Kruskal-Wallis H = 22.61, p = 0.0000
+                          comparison     U  p_raw  p_bonferroni
+Drug - high dose vs Infected control 100.0 0.0002        0.0004
+ Drug - low dose vs Infected control  96.0 0.0006        0.0012
+
+Survival (log-rank vs infected control):
+                          comparison   chi2  p_value
+ Drug - low dose vs Infected control 10.171   0.0014
+Drug - high dose vs Infected control 20.297   0.0000

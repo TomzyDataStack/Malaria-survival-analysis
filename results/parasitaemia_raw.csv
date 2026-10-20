@@ -1,0 +1,241 @@
+mouse,group,day,parasitaemia_pct
+1,Infected control,3,5.84
+1,Infected control,4,13.09
+1,Infected control,5,19.79
+1,Infected control,6,33.21
+1,Infected control,7,48.67
+1,Infected control,8,53.29
+1,Infected control,9,57.69
+1,Infected control,10,55.06
+2,Infected control,3,3.35
+2,Infected control,4,7.71
+2,Infected control,5,15.09
+2,Infected control,6,30.39
+2,Infected control,7,39.73
+2,Infected control,8,55.81
+2,Infected control,9,56.51
+2,Infected control,10,57.84
+3,Infected control,3,2.98
+3,Infected control,4,7.47
+3,Infected control,5,17.82
+3,Infected control,6,32.07
+3,Infected control,7,46.21
+3,Infected control,8,55.13
+3,Infected control,9,67.16
+3,Infected control,10,57.07
+4,Infected control,3,3.89
+4,Infected control,4,7.56
+4,Infected control,5,14.06
+4,Infected control,6,24.44
+4,Infected control,7,40.43
+4,Infected control,8,51.12
+4,Infected control,9,56.62
+4,Infected control,10,54.32
+5,Infected control,3,3.59
+5,Infected control,4,7.82
+5,Infected control,5,16.9
+5,Infected control,6,28.66
+5,Infected control,7,42.49
+5,Infected control,8,53.45
+5,Infected control,9,49.44
+5,Infected control,10,56.81
+6,Infected control,3,5.44
+6,Infected control,4,9.53
+6,Infected control,5,20.99
+6,Infected control,6,27.48
+6,Infected control,7,42.29
+6,Infected control,8,52.27
+6,Infected control,9,58.72
+6,Infected control,10,61.58
+7,Infected control,3,5.26
+7,Infected control,4,10.41
+7,Infected control,5,18.23
+7,Infected control,6,30.02
+7,Infected control,7,41.43
+7,Infected control,8,54.59
+7,Infected control,9,57.26
+7,Infected control,10,61.77
+8,Infected control,3,2.71
+8,Infected control,4,6.72
+8,Infected control,5,13.17
+8,Infected control,6,25.0
+8,Infected control,7,37.92
+8,Infected control,8,44.68
+8,Infected control,9,57.4
+8,Infected control,10,55.82
+9,Infected control,3,2.93
+9,Infected control,4,6.57
+9,Infected control,5,13.96
+9,Infected control,6,26.7
+9,Infected control,7,35.01
+9,Infected control,8,44.63
+9,Infected control,9,49.96
+9,Infected control,10,53.66
+10,Infected control,3,5.89
+10,Infected control,4,10.65
+10,Infected control,5,21.49
+10,Infected control,6,29.93
+10,Infected control,7,42.96
+10,Infected control,8,47.65
+10,Infected control,9,54.48
+10,Infected control,10,62.09
+11,Drug - low dose,3,1.95
+11,Drug - low dose,4,3.87
+11,Drug - low dose,5,9.0
+11,Drug - low dose,6,16.12
+11,Drug - low dose,7,28.39
+11,Drug - low dose,8,39.59
+11,Drug - low dose,9,54.9
+11,Drug - low dose,10,53.28
+12,Drug - low dose,3,2.49
+12,Drug - low dose,4,4.99
+12,Drug - low dose,5,9.61
+12,Drug - low dose,6,19.22
+12,Drug - low dose,7,25.36
+12,Drug - low dose,8,37.37
+12,Drug - low dose,9,44.8
+12,Drug - low dose,10,52.36
+13,Drug - low dose,3,2.03
+13,Drug - low dose,4,4.56
+13,Drug - low dose,5,10.43
+13,Drug - low dose,6,20.22
+13,Drug - low dose,7,35.53
+13,Drug - low dose,8,51.96
+13,Drug - low dose,9,52.2
+13,Drug - low dose,10,51.02
+14,Drug - low dose,3,3.11
+14,Drug - low dose,4,6.3
+14,Drug - low dose,5,12.71
+14,Drug - low dose,6,24.39
+14,Drug - low dose,7,34.5
+14,Drug - low dose,8,43.99
+14,Drug - low dose,9,47.53
+14,Drug - low dose,10,48.48
+15,Drug - low dose,3,1.38
+15,Drug - low dose,4,3.07
+15,Drug - low dose,5,5.55
+15,Drug - low dose,6,10.09
+15,Drug - low dose,7,18.16
+15,Drug - low dose,8,28.87
+15,Drug - low dose,9,48.51
+15,Drug - low dose,10,46.36
+16,Drug - low dose,3,2.58
+16,Drug - low dose,4,4.74
+16,Drug - low dose,5,8.86
+16,Drug - low dose,6,14.67
+16,Drug - low dose,7,25.49
+16,Drug - low dose,8,33.63
+16,Drug - low dose,9,39.8
+16,Drug - low dose,10,45.65
+17,Drug - low dose,3,1.45
+17,Drug - low dose,4,3.53
+17,Drug - low dose,5,8.57
+17,Drug - low dose,6,16.24
+17,Drug - low dose,7,27.22
+17,Drug - low dose,8,44.61
+17,Drug - low dose,9,52.13
+17,Drug - low dose,10,62.49
+18,Drug - low dose,3,6.47
+18,Drug - low dose,4,11.62
+18,Drug - low dose,5,16.89
+18,Drug - low dose,6,25.46
+18,Drug - low dose,7,40.4
+18,Drug - low dose,8,40.87
+18,Drug - low dose,9,47.47
+18,Drug - low dose,10,57.93
+19,Drug - low dose,3,2.81
+19,Drug - low dose,4,6.22
+19,Drug - low dose,5,10.92
+19,Drug - low dose,6,20.28
+19,Drug - low dose,7,25.3
+19,Drug - low dose,8,41.01
+19,Drug - low dose,9,46.13
+19,Drug - low dose,10,49.27
+20,Drug - low dose,3,1.85
+20,Drug - low dose,4,4.17
+20,Drug - low dose,5,7.78
+20,Drug - low dose,6,14.38
+20,Drug - low dose,7,26.3
+20,Drug - low dose,8,36.81
+20,Drug - low dose,9,49.77
+20,Drug - low dose,10,51.09
+21,Drug - high dose,3,1.81
+21,Drug - high dose,4,2.93
+21,Drug - high dose,5,5.71
+21,Drug - high dose,6,9.86
+21,Drug - high dose,7,18.88
+21,Drug - high dose,8,27.3
+21,Drug - high dose,9,30.57
+21,Drug - high dose,10,40.45
+22,Drug - high dose,3,2.25
+22,Drug - high dose,4,3.38
+22,Drug - high dose,5,5.81
+22,Drug - high dose,6,8.41
+22,Drug - high dose,7,15.84
+22,Drug - high dose,8,21.7
+22,Drug - high dose,9,30.99
+22,Drug - high dose,10,37.78
+23,Drug - high dose,3,6.02
+23,Drug - high dose,4,7.14
+23,Drug - high dose,5,10.92
+23,Drug - high dose,6,19.9
+23,Drug - high dose,7,29.5
+23,Drug - high dose,8,28.27
+23,Drug - high dose,9,37.18
+23,Drug - high dose,10,45.76
+24,Drug - high dose,3,3.02
+24,Drug - high dose,4,4.93
+24,Drug - high dose,5,7.57
+24,Drug - high dose,6,12.23
+24,Drug - high dose,7,16.57
+24,Drug - high dose,8,25.81
+24,Drug - high dose,9,33.79
+24,Drug - high dose,10,42.88
+25,Drug - high dose,3,1.03
+25,Drug - high dose,4,2.01
+25,Drug - high dose,5,3.71
+25,Drug - high dose,6,6.81
+25,Drug - high dose,7,11.3
+25,Drug - high dose,8,20.15
+25,Drug - high dose,9,28.99
+25,Drug - high dose,10,45.48
+26,Drug - high dose,3,1.72
+26,Drug - high dose,4,3.88
+26,Drug - high dose,5,6.64
+26,Drug - high dose,6,11.86
+26,Drug - high dose,7,16.16
+26,Drug - high dose,8,30.21
+26,Drug - high dose,9,39.22
+26,Drug - high dose,10,41.98
+27,Drug - high dose,3,1.49
+27,Drug - high dose,4,2.84
+27,Drug - high dose,5,5.15
+27,Drug - high dose,6,9.45
+27,Drug - high dose,7,17.51
+27,Drug - high dose,8,19.26
+27,Drug - high dose,9,33.26
+27,Drug - high dose,10,43.42
+28,Drug - high dose,3,3.47
+28,Drug - high dose,4,6.71
+28,Drug - high dose,5,8.72
+28,Drug - high dose,6,17.05
+28,Drug - high dose,7,23.22
+28,Drug - high dose,8,32.6
+28,Drug - high dose,9,37.73
+28,Drug - high dose,10,46.7
+29,Drug - high dose,3,0.83
+29,Drug - high dose,4,1.53
+29,Drug - high dose,5,3.23
+29,Drug - high dose,6,5.53
+29,Drug - high dose,7,10.31
+29,Drug - high dose,8,16.07
+29,Drug - high dose,9,25.73
+29,Drug - high dose,10,33.65
+30,Drug - high dose,3,2.33
+30,Drug - high dose,4,4.3
+30,Drug - high dose,5,6.8
+30,Drug - high dose,6,11.67
+30,Drug - high dose,7,16.45
+30,Drug - high dose,8,19.61
+30,Drug - high dose,9,30.14
+30,Drug - high dose,10,34.55

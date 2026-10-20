@@ -1,0 +1,25 @@
+group,day,mean,sd,n
+Drug - high dose,3,2.4,1.51,10
+Drug - high dose,4,3.96,1.86,10
+Drug - high dose,5,6.43,2.29,10
+Drug - high dose,6,11.28,4.42,10
+Drug - high dose,7,17.57,5.53,10
+Drug - high dose,8,24.1,5.47,10
+Drug - high dose,9,32.76,4.29,10
+Drug - high dose,10,41.26,4.61,10
+Drug - low dose,3,2.61,1.47,10
+Drug - low dose,4,5.31,2.45,10
+Drug - low dose,5,10.03,3.07,10
+Drug - low dose,6,18.11,4.73,10
+Drug - low dose,7,28.66,6.41,10
+Drug - low dose,8,39.87,6.36,10
+Drug - low dose,9,48.32,4.3,10
+Drug - low dose,10,51.79,5.17,10
+Infected control,3,4.19,1.28,10
+Infected control,4,8.75,2.1,10
+Infected control,5,17.15,3.02,10
+Infected control,6,28.79,2.89,10
+Infected control,7,41.71,3.89,10
+Infected control,8,51.26,4.18,10
+Infected control,9,56.52,4.92,10
+Infected control,10,57.6,3.17,10
